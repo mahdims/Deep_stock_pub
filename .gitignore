@@ -1,0 +1,9 @@
+checkpoint/
+__pycache__/
+.idea/
+ultimate_feature
+*.pyc
+*.csv
+dataset/
+logs/
+output/
